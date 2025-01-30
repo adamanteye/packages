@@ -26,3 +26,8 @@ use_max_tag = true
 source = "github"
 github = "XTLS/Xray-core"
 use_latest_release = true
+
+[taskchampion-sync-server]
+source = "github"
+github = "GothenburgBitFactory/taskchampion-sync-server"
+use_latest_release = true
