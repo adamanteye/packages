@@ -21,3 +21,8 @@ use_latest_release = true
 source = "github"
 github = "adamanteye/tunet_bash"
 use_max_tag = true
+
+[xray]
+source = "github"
+github = "XTLS/Xray-core"
+use_latest_release = true
