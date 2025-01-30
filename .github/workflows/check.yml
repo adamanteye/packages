@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check upstream updates
         run: |
-          nvchecker -c packages.toml 2> err.log
+          nvchecker -l warning -c packages.toml 2> err.log
           nvcmp -c packages.toml > compare
       - name: Upload result
         uses: actions/upload-artifact@v4
