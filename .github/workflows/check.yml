@@ -1,0 +1,79 @@
+name: check
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - "packages.toml"
+      - ".github/workflows/check.yml"
+  pull_request:
+    branches:
+      - master
+    paths:
+      - "packages.toml"
+      - ".github/workflows/check.yml"
+  schedule:
+    - cron: "0 0 * * *"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-upstream-updates:
+    name: Check upstream updates
+    runs-on: ubuntu-latest
+    container: snw35/nvchecker:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check upstream updates
+        run: |
+          nvchecker -c packages.toml
+          nvcmp -c packages.toml > compare
+          nvtake -c packages.toml --all
+      - name: Upload result
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-results
+          path: |
+            compare
+            old.json
+            new.json
+          retention-days: 1
+  create-issue-and-push-to-master:
+    name: Create Issue and Push to Master
+    runs-on: ubuntu-latest
+    needs: check-upstream-updates
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download result
+        uses: actions/download-artifact@v4
+        with:
+          name: update-results
+      - name: Create Issue and Persist old.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s compare ]; then
+            data=$(jq -r ".[\"data\"]" new.json)
+            packages=()
+            while IFS= read -r package; do
+              name=$(echo "$package" | cut -d' ' -f1)
+              packages+=("$name")
+              body=$(echo "$data" | jq -r ".[\"$name\"]")
+              gh issue create --title "$name" --body "$body" \
+                --repo ${{ github.repository }} --assignee ${{ github.actor }}
+            done < compare
+            git config --global user.email "checkbot@adamanteye.cc"
+            git config --global user.name "checkbot"
+            rm -f compare
+            git add new.json old.json
+            commit_message=$(printf "chore: update new versions\n\npackages: %s" "${packages[*]}")
+            git commit -m "$commit_message"
+            git push origin master
+          fi
