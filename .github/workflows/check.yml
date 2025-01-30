@@ -32,7 +32,6 @@ jobs:
         run: |
           nvchecker -c packages.toml 2> err.log
           nvcmp -c packages.toml > compare
-          nvtake -c packages.toml --all
       - name: Upload result
         uses: actions/upload-artifact@v4
         with:
@@ -59,8 +58,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.email "checkbot@adamanteye.cc"
-          git config --global user.name "checkbot"
           if [ -s compare ]; then
             data=$(jq -r ".[\"data\"]" new.json)
             packages=()
