@@ -4,6 +4,11 @@
     "astroimagej": {
       "version": "5.4.1"
     },
+    "taskchampion-sync-server": {
+      "version": "v0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "url": "https://github.com/GothenburgBitFactory/taskchampion-sync-server/releases/tag/v0.5.0"
+    },
     "ttf-lxgw-bright-code-tc": {
       "version": "v2.611",
       "gitref": "refs/tags/v2.611",
