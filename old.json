@@ -19,6 +19,11 @@
       "gitref": "refs/tags/v1.2.3",
       "revision": "26bcb6d7da23a6645bbfd30e7c032e61fe5c1dfd",
       "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.3"
+    },
+    "xray": {
+      "version": "v24.12.31",
+      "gitref": "refs/tags/v24.12.31",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v24.12.31"
     }
   }
 }
