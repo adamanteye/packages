@@ -1,0 +1,23 @@
+[__config__]
+oldver = "old.json"
+newver = "new.json"
+
+[astroimagej]
+source = "regex"
+regex = "AstroImageJ_v(\\d+\\.\\d+\\.\\d+)(?:\\.00)?-linux-x86_64"
+url = "http://www.astro.louisville.edu/software/astroimagej/installation_packages/"
+
+[ttf-lxgw-wenkai-tc-mono]
+source = "github"
+github = "lxgw/LxgwWenkaiTC"
+use_latest_release = true
+
+[ttf-lxgw-bright-code-tc]
+source = "github"
+github = "lxgw/LxgwBright-Code"
+use_latest_release = true
+
+[tunet_bash]
+source = "github"
+github = "adamanteye/tunet_bash"
+use_max_tag = true
