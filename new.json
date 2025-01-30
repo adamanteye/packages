@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "data": {
+    "astroimagej": {
+      "version": "5.4.1"
+    },
+    "ttf-lxgw-bright-code-tc": {
+      "version": "v2.611",
+      "gitref": "refs/tags/v2.611",
+      "url": "https://github.com/lxgw/LxgwBright-Code/releases/tag/v2.611"
+    },
+    "ttf-lxgw-wenkai-tc-mono": {
+      "version": "v1.510",
+      "gitref": "refs/tags/v1.510",
+      "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.510"
+    },
+    "tunet_bash": {
+      "version": "v1.2.3",
+      "gitref": "refs/tags/v1.2.3",
+      "revision": "26bcb6d7da23a6645bbfd30e7c032e61fe5c1dfd",
+      "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.3"
+    }
+  }
+}
