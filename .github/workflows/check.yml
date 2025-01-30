@@ -30,7 +30,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check upstream updates
         run: |
-          nvchecker -c packages.toml
+          nvchecker -c packages.toml 2> err.log
           nvcmp -c packages.toml > compare
           nvtake -c packages.toml --all
       - name: Upload result
@@ -40,6 +40,7 @@ jobs:
           path: |
             compare
             new.json
+            err.log
           retention-days: 1
   create-issue-and-push-to-master:
     name: Create Issue and Push to Master
@@ -58,6 +59,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git config --global user.email "checkbot@adamanteye.cc"
+          git config --global user.name "checkbot"
           if [ -s compare ]; then
             data=$(jq -r ".[\"data\"]" new.json)
             packages=()
@@ -69,11 +72,15 @@ jobs:
               gh issue create --title "$package" --body "$body" \
                 --repo ${{ github.repository }} --assignee ${{ github.actor }}
             done < compare
-            git config --global user.email "checkbot@adamanteye.cc"
-            git config --global user.name "checkbot"
-            rm -f compare
+            mv new.json old.json
             git add old.json
             commit_message=$(printf "chore: update new versions\n\npackages: %s" "${packages[*]}")
             git commit -m "$commit_message"
             git push origin master
+          fi
+          if [ -s err.log ]; then
+            err_log=$(cat err.log)
+            err_log=$(printf "**Error Log**\n\`\`\`\n%s\n\`\`\`" "$err_log")
+            gh issue create --title "check failed" --body "$err_log" \
+                --repo ${{ github.repository }} --assignee ${{ github.actor }}
           fi
