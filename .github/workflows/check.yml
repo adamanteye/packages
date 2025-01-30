@@ -39,7 +39,6 @@ jobs:
           name: update-results
           path: |
             compare
-            old.json
             new.json
           retention-days: 1
   create-issue-and-push-to-master:
@@ -73,7 +72,7 @@ jobs:
             git config --global user.email "checkbot@adamanteye.cc"
             git config --global user.name "checkbot"
             rm -f compare
-            git add new.json old.json
+            git add old.json
             commit_message=$(printf "chore: update new versions\n\npackages: %s" "${packages[*]}")
             git commit -m "$commit_message"
             git push origin master
