@@ -65,7 +65,7 @@ jobs:
               body=$(echo "$data" | jq -r ".[\"$name\"]")
               body=$(printf "**New Version available**\n\`\`\`json\n%s\n\`\`\`" "$body")
               gh issue create --title "$package" --body "$body" \
-                --repo ${{ github.repository }} --assignee ${{ github.actor }}
+                --repo ${{ github.repository }}
             done < compare
             mv new.json old.json
             git add old.json
