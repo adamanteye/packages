@@ -31,3 +31,38 @@ use_latest_release = true
 source = "github"
 github = "GothenburgBitFactory/taskchampion-sync-server"
 use_latest_release = true
+
+[hedgedoc]
+source = "github"
+github = "hedgedoc/hedgedoc"
+use_latest_release = true
+
+[typst]
+source = "github"
+github = "typst/typst"
+use_latest_release = true
+
+[typst-physica]
+source = "github"
+github = "Leedehai/typst-physics"
+use_latest_release = true
+
+[typst-touying]
+source = "github"
+github = "touying-typ/touying"
+use_latest_release = true
+
+[typst-ctheorems]
+source = "github"
+github = "sahasatvik/typst-theorems"
+use_latest_release = true
+
+[typst-codly]
+source = "github"
+github = "Dherse/codly"
+use_latest_release = true
+
+[typst-codly-languages]
+source = "htmlparser"
+url = "https://typst.app/universe/package/codly-languages"
+xpath = "/html/body/div/main/div[1]/div[2]/div/span"
