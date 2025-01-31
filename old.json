@@ -65,9 +65,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.5.5"
     },
     "xray": {
-      "version": "v24.12.31",
-      "gitref": "refs/tags/v24.12.31",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v24.12.31"
+      "version": "v25.1.30",
+      "gitref": "refs/tags/v25.1.30",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.1.30"
     }
   }
 }
