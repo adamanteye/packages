@@ -2,6 +2,11 @@
 oldver = "old.json"
 newver = "new.json"
 
+[nvchecker]
+source = "github"
+github = "lilydjwg/nvchecker"
+use_max_tag = true
+
 [astroimagej]
 source = "regex"
 regex = "AstroImageJ_v(\\d+\\.\\d+\\.\\d+)(?:\\.00)?-linux-x86_64"
