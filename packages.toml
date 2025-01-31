@@ -47,6 +47,11 @@ source = "github"
 github = "typst/typst"
 use_latest_release = true
 
+[typst-cetz]
+source = "github"
+github = "cetz-package/cetz"
+use_latest_release = true
+
 [typst-physica]
 source = "github"
 github = "Leedehai/typst-physics"
