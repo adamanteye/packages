@@ -4,6 +4,17 @@
     "astroimagej": {
       "version": "5.4.1"
     },
+    "hedgedoc": {
+      "version": "1.10.0",
+      "gitref": "refs/tags/1.10.0",
+      "url": "https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.0"
+    },
+    "nvchecker": {
+      "version": "v2.16",
+      "gitref": "refs/tags/v2.16",
+      "revision": "fb4e73ae72c2c9acbff4aafb588ab3a430f59560",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
+    },
     "taskchampion-sync-server": {
       "version": "v0.5.0",
       "gitref": "refs/tags/v0.5.0",
@@ -24,6 +35,34 @@
       "gitref": "refs/tags/v1.2.3",
       "revision": "26bcb6d7da23a6645bbfd30e7c032e61fe5c1dfd",
       "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.3"
+    },
+    "typst": {
+      "version": "v0.12.0",
+      "gitref": "refs/tags/v0.12.0",
+      "url": "https://github.com/typst/typst/releases/tag/v0.12.0"
+    },
+    "typst-codly": {
+      "version": "v1.2.0",
+      "gitref": "refs/tags/v1.2.0",
+      "url": "https://github.com/Dherse/codly/releases/tag/v1.2.0"
+    },
+    "typst-codly-languages": {
+      "version": "0.1.6"
+    },
+    "typst-ctheorems": {
+      "version": "v1.1.3",
+      "gitref": "refs/tags/v1.1.3",
+      "url": "https://github.com/sahasatvik/typst-theorems/releases/tag/v1.1.3"
+    },
+    "typst-physica": {
+      "version": "v0.9.4",
+      "gitref": "refs/tags/v0.9.4",
+      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.4"
+    },
+    "typst-touying": {
+      "version": "0.5.5",
+      "gitref": "refs/tags/0.5.5",
+      "url": "https://github.com/touying-typ/touying/releases/tag/0.5.5"
     },
     "xray": {
       "version": "v24.12.31",
