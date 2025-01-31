@@ -15,11 +15,7 @@ on:
       - "packages.toml"
       - ".github/workflows/check.yml"
   schedule:
-    - cron: "50 17 * * *"
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+    - cron: "50 5,17 * * *"
 
 jobs:
   check-upstream-updates:
