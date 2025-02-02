@@ -69,6 +69,11 @@
       "gitref": "refs/tags/0.5.5",
       "url": "https://github.com/touying-typ/touying/releases/tag/0.5.5"
     },
+    "wakapi": {
+      "version": "2.12.3",
+      "gitref": "refs/tags/2.12.3",
+      "url": "https://github.com/muety/wakapi/releases/tag/2.12.3"
+    },
     "xray": {
       "version": "v25.1.30",
       "gitref": "refs/tags/v25.1.30",
