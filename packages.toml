@@ -7,6 +7,11 @@ source = "github"
 github = "lilydjwg/nvchecker"
 use_max_tag = true
 
+[wakapi]
+source = "github"
+github = "muety/wakapi"
+use_latest_release = true
+
 [astroimagej]
 source = "regex"
 regex = "AstroImageJ_v(\\d+\\.\\d+\\.\\d+)(?:\\.00)?-linux-x86_64"
