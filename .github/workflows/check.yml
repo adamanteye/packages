@@ -15,7 +15,7 @@ on:
       - "packages.toml"
       - ".github/workflows/check.yml"
   schedule:
-    - cron: "50 5,17 * * *"
+    - cron: "40 15 * * *"
 
 jobs:
   check-upstream-updates:
