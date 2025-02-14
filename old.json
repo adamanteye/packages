@@ -5,9 +5,9 @@
       "version": "5.4.1"
     },
     "hedgedoc": {
-      "version": "1.10.1",
-      "gitref": "refs/tags/1.10.1",
-      "url": "https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.1"
+      "version": "1.10.2",
+      "gitref": "refs/tags/1.10.2",
+      "url": "https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.2"
     },
     "nvchecker": {
       "version": "v2.16",
