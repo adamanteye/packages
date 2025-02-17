@@ -9,6 +9,11 @@
       "gitref": "refs/tags/1.10.2",
       "url": "https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.2"
     },
+    "helix": {
+      "version": "25.01.1",
+      "gitref": "refs/tags/25.01.1",
+      "url": "https://github.com/helix-editor/helix/releases/tag/25.01.1"
+    },
     "nvchecker": {
       "version": "v2.16",
       "gitref": "refs/tags/v2.16",
