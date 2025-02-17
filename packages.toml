@@ -12,6 +12,11 @@ source = "github"
 github = "muety/wakapi"
 use_latest_release = true
 
+[helix]
+source = "github"
+github = "helix-editor/helix"
+use_latest_release = true
+
 [astroimagej]
 source = "regex"
 regex = "AstroImageJ_v(\\d+\\.\\d+\\.\\d+)(?:\\.00)?-linux-x86_64"
