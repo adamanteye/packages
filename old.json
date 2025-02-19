@@ -42,9 +42,9 @@
       "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.5"
     },
     "typst": {
-      "version": "v0.12.0",
-      "gitref": "refs/tags/v0.12.0",
-      "url": "https://github.com/typst/typst/releases/tag/v0.12.0"
+      "version": "v0.13.0",
+      "gitref": "refs/tags/v0.13.0",
+      "url": "https://github.com/typst/typst/releases/tag/v0.13.0"
     },
     "typst-cetz": {
       "version": "v0.3.2",
