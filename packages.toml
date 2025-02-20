@@ -2,6 +2,16 @@
 oldver = "old.json"
 newver = "new.json"
 
+[caddy]
+source = "github"
+github = "caddyserver/caddy"
+use_latest_release = true
+
+[caddy-webdav]
+source = "github"
+github = "mholt/caddy-webdav"
+use_latest_release = true
+
 [nvchecker]
 source = "github"
 github = "lilydjwg/nvchecker"
