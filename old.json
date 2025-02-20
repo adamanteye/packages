@@ -4,6 +4,11 @@
     "astroimagej": {
       "version": "5.4.1"
     },
+    "caddy": {
+      "version": "v2.9.1",
+      "gitref": "refs/tags/v2.9.1",
+      "url": "https://github.com/caddyserver/caddy/releases/tag/v2.9.1"
+    },
     "hedgedoc": {
       "version": "1.10.2",
       "gitref": "refs/tags/1.10.2",
