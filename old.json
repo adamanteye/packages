@@ -31,9 +31,9 @@
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
     },
     "rust": {
-      "version": "1.84.1",
-      "gitref": "refs/tags/1.84.1",
-      "url": "https://github.com/rust-lang/rust/releases/tag/1.84.1"
+      "version": "1.85.0",
+      "gitref": "refs/tags/1.85.0",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.85.0"
     },
     "taskchampion-sync-server": {
       "version": "v0.5.0",
@@ -85,9 +85,9 @@
       "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.4"
     },
     "typst-touying": {
-      "version": "0.5.5",
-      "gitref": "refs/tags/0.5.5",
-      "url": "https://github.com/touying-typ/touying/releases/tag/0.5.5"
+      "version": "0.6.0",
+      "gitref": "refs/tags/0.6.0",
+      "url": "https://github.com/touying-typ/touying/releases/tag/0.6.0"
     },
     "wakapi": {
       "version": "2.12.3",
