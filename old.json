@@ -30,6 +30,11 @@
       "revision": "fb4e73ae72c2c9acbff4aafb588ab3a430f59560",
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
     },
+    "rust": {
+      "version": "1.84.1",
+      "gitref": "refs/tags/1.84.1",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.84.1"
+    },
     "taskchampion-sync-server": {
       "version": "v0.5.0",
       "gitref": "refs/tags/v0.5.0",
@@ -67,7 +72,7 @@
       "url": "https://github.com/Dherse/codly/releases/tag/v1.2.0"
     },
     "typst-codly-languages": {
-      "version": "0.1.6"
+      "version": "0.1.7"
     },
     "typst-ctheorems": {
       "version": "v1.1.3",
