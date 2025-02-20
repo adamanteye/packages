@@ -2,6 +2,11 @@
 oldver = "old.json"
 newver = "new.json"
 
+[rust]
+source = "github"
+github = "rust-lang/rust"
+use_latest_release = true
+
 [caddy]
 source = "github"
 github = "caddyserver/caddy"
