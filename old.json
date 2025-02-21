@@ -95,9 +95,9 @@
       "url": "https://github.com/muety/wakapi/releases/tag/2.12.3"
     },
     "xray": {
-      "version": "v25.1.30",
-      "gitref": "refs/tags/v25.1.30",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.1.30"
+      "version": "v25.2.21",
+      "gitref": "refs/tags/v25.2.21",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.2.21"
     }
   }
 }
