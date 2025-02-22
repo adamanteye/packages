@@ -51,10 +51,10 @@
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.510"
     },
     "tunet_bash": {
-      "version": "v1.2.5",
-      "gitref": "refs/tags/v1.2.5",
-      "revision": "110680b3fe1ef7d11f229580e78499fc2184d5e7",
-      "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.5"
+      "version": "v1.2.7",
+      "gitref": "refs/tags/v1.2.7",
+      "revision": "22945ee75d44164ded5d12de6ca4f64a6fc34d65",
+      "url": "https://github.com/adamanteye/tunet_bash/releases/tag/v1.2.7"
     },
     "typst": {
       "version": "v0.13.0",
