@@ -8,14 +8,8 @@ on:
     paths:
       - "packages.toml"
       - ".github/workflows/check.yml"
-  pull_request:
-    branches:
-      - master
-    paths:
-      - "packages.toml"
-      - ".github/workflows/check.yml"
   schedule:
-    - cron: "40 23 * * *"
+    - cron: "40 11,23 * * *"
 
 jobs:
   check-upstream-updates:
@@ -24,7 +18,7 @@ jobs:
     container: ghcr.io/adamanteye/nvchecker:master
     steps:
       - uses: actions/checkout@v4
-      - name: Check upstream updates
+      - name: Check Upstream
         run: |
           nvchecker -l warning -c packages.toml 2> err.log
           nvcmp -c packages.toml > compare
