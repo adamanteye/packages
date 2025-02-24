@@ -96,6 +96,11 @@ source = "github"
 github = "Dherse/codly"
 use_latest_release = true
 
+[typst-modern-cv]
+source = "github"
+github = "DeveloperPaul123/modern-cv"
+use_latest_release = true
+
 [typst-codly-languages]
 source = "htmlparser"
 url = "https://typst.app/universe/package/codly-languages"
