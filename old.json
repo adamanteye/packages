@@ -90,9 +90,9 @@
       "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.4"
     },
     "typst-touying": {
-      "version": "0.6.0",
-      "gitref": "refs/tags/0.6.0",
-      "url": "https://github.com/touying-typ/touying/releases/tag/0.6.0"
+      "version": "0.6.1",
+      "gitref": "refs/tags/0.6.1",
+      "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
     },
     "wakapi": {
       "version": "2.12.3",
