@@ -1,6 +1,7 @@
 [__config__]
 oldver = "old.json"
 newver = "new.json"
+max_concurrency = 5
 
 [rust]
 source = "github"
