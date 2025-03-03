@@ -36,9 +36,9 @@
       "url": "https://github.com/rust-lang/rust/releases/tag/1.85.0"
     },
     "taskchampion-sync-server": {
-      "version": "v0.6.0",
-      "gitref": "refs/tags/v0.6.0",
-      "url": "https://github.com/GothenburgBitFactory/taskchampion-sync-server/releases/tag/v0.6.0"
+      "version": "v0.6.1",
+      "gitref": "refs/tags/v0.6.1",
+      "url": "https://github.com/GothenburgBitFactory/taskchampion-sync-server/releases/tag/v0.6.1"
     },
     "ttf-lxgw-bright-code-tc": {
       "version": "v2.611",
