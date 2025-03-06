@@ -85,9 +85,9 @@
       "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.8.0"
     },
     "typst-physica": {
-      "version": "v0.9.4",
-      "gitref": "refs/tags/v0.9.4",
-      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.4"
+      "version": "v0.9.5",
+      "gitref": "refs/tags/v0.9.5",
+      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.5"
     },
     "typst-touying": {
       "version": "0.6.1",
