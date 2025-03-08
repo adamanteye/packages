@@ -57,6 +57,11 @@ source = "github"
 github = "XTLS/Xray-core"
 use_latest_release = true
 
+[v2rayng]
+source = "github"
+github = "2dust/v2rayNG"
+use_latest_release = true
+
 [taskchampion-sync-server]
 source = "github"
 github = "GothenburgBitFactory/taskchampion-sync-server"
