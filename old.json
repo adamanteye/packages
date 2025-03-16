@@ -25,10 +25,10 @@
       "url": "https://github.com/helix-editor/helix/releases/tag/25.01.1"
     },
     "nvchecker": {
-      "version": "v2.16",
-      "gitref": "refs/tags/v2.16",
-      "revision": "fb4e73ae72c2c9acbff4aafb588ab3a430f59560",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.16"
+      "version": "v2.17",
+      "gitref": "refs/tags/v2.17",
+      "revision": "c2dbbe173976859c2a2cee9e123bfdb64308aa20",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
     },
     "rust": {
       "version": "1.85.0",
@@ -95,9 +95,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
     },
     "v2rayng": {
-      "version": "1.9.33",
-      "gitref": "refs/tags/1.9.33",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.9.33"
+      "version": "1.9.39",
+      "gitref": "refs/tags/1.9.39",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.9.39"
     },
     "wakapi": {
       "version": "2.13.1",
