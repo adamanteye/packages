@@ -3,6 +3,11 @@ oldver = "old.json"
 newver = "new.json"
 max_concurrency = 5
 
+[frankenstein]
+source = "github"
+github = "ayrat555/frankenstein"
+use_latest_release = true
+
 [rust]
 source = "github"
 github = "rust-lang/rust"
