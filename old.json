@@ -14,6 +14,11 @@
       "revision": "42168ba04c9dc2cd228ab8c453dbab27654e52e6",
       "url": "https://github.com/mholt/caddy-webdav/commit/42168ba04c9dc2cd228ab8c453dbab27654e52e6"
     },
+    "frankenstein": {
+      "version": "0.39.2",
+      "gitref": "refs/tags/0.39.2",
+      "url": "https://github.com/ayrat555/frankenstein/releases/tag/0.39.2"
+    },
     "hedgedoc": {
       "version": "1.10.2",
       "gitref": "refs/tags/1.10.2",
