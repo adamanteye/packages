@@ -8,9 +8,9 @@ source = "github"
 github = "ayrat555/frankenstein"
 use_latest_release = true
 
-[rust]
+[taskwarrior]
 source = "github"
-github = "rust-lang/rust"
+github = "GothenburgBitFactory/taskwarrior"
 use_latest_release = true
 
 [caddy]
