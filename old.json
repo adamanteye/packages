@@ -35,15 +35,15 @@
       "revision": "c2dbbe173976859c2a2cee9e123bfdb64308aa20",
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
     },
-    "rust": {
-      "version": "1.85.0",
-      "gitref": "refs/tags/1.85.0",
-      "url": "https://github.com/rust-lang/rust/releases/tag/1.85.0"
-    },
     "taskchampion-sync-server": {
       "version": "v0.6.1",
       "gitref": "refs/tags/v0.6.1",
       "url": "https://github.com/GothenburgBitFactory/taskchampion-sync-server/releases/tag/v0.6.1"
+    },
+    "taskwarrior": {
+      "version": "v3.4.1",
+      "gitref": "refs/tags/v3.4.1",
+      "url": "https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.4.1"
     },
     "ttf-lxgw-bright-code-tc": {
       "version": "v2.611",
