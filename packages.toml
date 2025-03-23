@@ -3,7 +3,12 @@ oldver = "old.json"
 newver = "new.json"
 max_concurrency = 5
 
-[frankenstein]
+[rust-chumsky]
+source = "github"
+github = "zesterer/chumsky"
+use_latest_release = true
+
+[rust-frankenstein]
 source = "github"
 github = "ayrat555/frankenstein"
 use_latest_release = true
