@@ -14,11 +14,6 @@
       "revision": "42168ba04c9dc2cd228ab8c453dbab27654e52e6",
       "url": "https://github.com/mholt/caddy-webdav/commit/42168ba04c9dc2cd228ab8c453dbab27654e52e6"
     },
-    "frankenstein": {
-      "version": "0.40.0",
-      "gitref": "refs/tags/0.40.0",
-      "url": "https://github.com/ayrat555/frankenstein/releases/tag/0.40.0"
-    },
     "hedgedoc": {
       "version": "1.10.2",
       "gitref": "refs/tags/1.10.2",
@@ -34,6 +29,16 @@
       "gitref": "refs/tags/v2.17",
       "revision": "c2dbbe173976859c2a2cee9e123bfdb64308aa20",
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.17"
+    },
+    "rust-chumsky": {
+      "version": "0.10",
+      "gitref": "refs/tags/0.10",
+      "url": "https://github.com/zesterer/chumsky/releases/tag/0.10"
+    },
+    "rust-frankenstein": {
+      "version": "0.40.0",
+      "gitref": "refs/tags/0.40.0",
+      "url": "https://github.com/ayrat555/frankenstein/releases/tag/0.40.0"
     },
     "taskchampion-sync-server": {
       "version": "v0.6.1",
