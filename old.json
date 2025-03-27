@@ -51,9 +51,9 @@
       "url": "https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.4.1"
     },
     "ttf-lxgw-bright-code-tc": {
-      "version": "v2.611",
-      "gitref": "refs/tags/v2.611",
-      "url": "https://github.com/lxgw/LxgwBright-Code/releases/tag/v2.611"
+      "version": "v2.711",
+      "gitref": "refs/tags/v2.711",
+      "url": "https://github.com/lxgw/LxgwBright-Code/releases/tag/v2.711"
     },
     "ttf-lxgw-wenkai-tc-mono": {
       "version": "v1.511",
