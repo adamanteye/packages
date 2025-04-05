@@ -105,9 +105,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
     },
     "v2rayng": {
-      "version": "1.9.39",
-      "gitref": "refs/tags/1.9.39",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.9.39"
+      "version": "1.9.45",
+      "gitref": "refs/tags/1.9.45",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.9.45"
     },
     "wakapi": {
       "version": "2.13.1",
