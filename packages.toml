@@ -52,11 +52,6 @@ source = "github"
 github = "lxgw/LxgwWenkaiTC"
 use_latest_release = true
 
-[ttf-sotyr-fangsong]
-source = "github"
-github = "Hulenkius/sotyr"
-use_latest_release = true
-
 [ttf-lxgw-bright-code-tc]
 source = "github"
 github = "lxgw/LxgwBright-Code"
