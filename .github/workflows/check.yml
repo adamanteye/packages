@@ -14,7 +14,7 @@ jobs:
   check-upstream-updates:
     name: Check Upstream Updates
     runs-on: ubuntu-latest
-    container: ghcr.io/adamanteye/nvchecker:master
+    container: ghcr.io/adamanteye/nvchecker:latest
     steps:
       - uses: actions/checkout@v4
       - name: Check Upstream
