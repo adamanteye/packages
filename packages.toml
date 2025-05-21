@@ -8,6 +8,11 @@ source = "github"
 github = "zesterer/chumsky"
 use_latest_release = true
 
+[minify]
+source = "github"
+github = "tdewolff/minify"
+use_latest_release = true
+
 [rust-frankenstein]
 source = "github"
 github = "ayrat555/frankenstein"
