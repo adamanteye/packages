@@ -115,9 +115,9 @@
       "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.4"
     },
     "wakapi": {
-      "version": "2.13.4",
-      "gitref": "refs/tags/2.13.4",
-      "url": "https://github.com/muety/wakapi/releases/tag/2.13.4"
+      "version": "2.14.0",
+      "gitref": "refs/tags/2.14.0",
+      "url": "https://github.com/muety/wakapi/releases/tag/2.14.0"
     },
     "xray": {
       "version": "v25.6.8",
