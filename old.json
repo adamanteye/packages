@@ -20,9 +20,9 @@
       "url": "https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.3"
     },
     "helix": {
-      "version": "25.01.1",
-      "gitref": "refs/tags/25.01.1",
-      "url": "https://github.com/helix-editor/helix/releases/tag/25.01.1"
+      "version": "25.07",
+      "gitref": "refs/tags/25.07",
+      "url": "https://github.com/helix-editor/helix/releases/tag/25.07"
     },
     "minify": {
       "version": "v2.23.8",
