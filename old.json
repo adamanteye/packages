@@ -4,16 +4,6 @@
     "astroimagej": {
       "version": "5.5.1"
     },
-    "caddy": {
-      "version": "v2.10.0",
-      "gitref": "refs/tags/v2.10.0",
-      "url": "https://github.com/caddyserver/caddy/releases/tag/v2.10.0"
-    },
-    "caddy-webdav": {
-      "version": "20250609.161527",
-      "revision": "33ba3cd2088c2219e2eeef1edf949bdd90bf47ab",
-      "url": "https://github.com/mholt/caddy-webdav/commit/33ba3cd2088c2219e2eeef1edf949bdd90bf47ab"
-    },
     "hedgedoc": {
       "version": "1.10.3",
       "gitref": "refs/tags/1.10.3",
@@ -25,20 +15,15 @@
       "url": "https://github.com/helix-editor/helix/releases/tag/25.07"
     },
     "minify": {
-      "version": "v2.23.8",
-      "gitref": "refs/tags/v2.23.8",
-      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.8"
+      "version": "v2.23.9",
+      "gitref": "refs/tags/v2.23.9",
+      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.9"
     },
     "nvchecker": {
       "version": "v2.18",
       "gitref": "refs/tags/v2.18",
       "revision": "9aad68bbda4d719b0e395e9a5763b1e2ca8d948d",
       "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.18"
-    },
-    "rust-chumsky": {
-      "version": "0.10",
-      "gitref": "refs/tags/0.10",
-      "url": "https://github.com/zesterer/chumsky/releases/tag/0.10"
     },
     "rust-frankenstein": {
       "version": "0.44.0",
@@ -55,31 +40,10 @@
       "gitref": "refs/tags/v3.4.1",
       "url": "https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.4.1"
     },
-    "ttf-lxgw-bright-code-tc": {
-      "version": "v2.720",
-      "gitref": "refs/tags/v2.720",
-      "url": "https://github.com/lxgw/LxgwBright-Code/releases/tag/v2.720"
-    },
     "ttf-lxgw-wenkai-tc-mono": {
       "version": "v1.520",
       "gitref": "refs/tags/v1.520",
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.520"
-    },
-    "tunet_bash": {
-      "version": "1.2.8",
-      "gitref": "refs/tags/1.2.8",
-      "revision": "ac5b7fa897fdd5040124f19df87b144d1d47b3c9",
-      "url": "https://github.com/adamanteye/tunet_bash/releases/tag/1.2.8"
-    },
-    "typst": {
-      "version": "v0.13.1",
-      "gitref": "refs/tags/v0.13.1",
-      "url": "https://github.com/typst/typst/releases/tag/v0.13.1"
-    },
-    "typst-cetz": {
-      "version": "v0.4.0",
-      "gitref": "refs/tags/v0.4.0",
-      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.4.0"
     },
     "typst-codly": {
       "version": "v1.3.0",
@@ -93,11 +57,6 @@
       "version": "v1.1.3",
       "gitref": "refs/tags/v1.1.3",
       "url": "https://github.com/sahasatvik/typst-theorems/releases/tag/v1.1.3"
-    },
-    "typst-modern-cv": {
-      "version": "0.8.0",
-      "gitref": "refs/tags/0.8.0",
-      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.8.0"
     },
     "typst-physica": {
       "version": "v0.9.5",
