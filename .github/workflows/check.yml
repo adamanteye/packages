@@ -21,6 +21,8 @@ jobs:
         run: |
           nvchecker -l warning -c packages.toml 2> err.log
           nvcmp -c packages.toml > compare
+        env:
+          NVCHECKER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload Result
         uses: actions/upload-artifact@v4
         with:
@@ -49,14 +51,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -s compare ]; then
+          if [ -s compare ] && [ ! -f err.log ]; then
             data=$(jq -r ".[\"data\"]" new.json)
             packages=()
             while IFS= read -r package; do
               name=$(echo "$package" | cut -d' ' -f1)
               packages+=("$name")
               body=$(echo "$data" | jq -r ".[\"$name\"]")
-              body=$(printf "**New Version available**\n\`\`\`json\n%s\n\`\`\`" "$body")
+              body=$(printf "**New Version Available**\n\`\`\`json\n%s\n\`\`\`" "$body")
               gh issue create --title "$package" --body "$body" \
                 --repo ${{ github.repository }}
             done < compare
