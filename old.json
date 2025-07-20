@@ -65,11 +65,11 @@
       "gitref": "refs/tags/v1.520",
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.520"
     },
-    "tunet_bash": {
+    "tunet-bash": {
       "version": "1.2.8",
       "gitref": "refs/tags/1.2.8",
       "revision": "ac5b7fa897fdd5040124f19df87b144d1d47b3c9",
-      "url": "https://github.com/adamanteye/tunet_bash/releases/tag/1.2.8"
+      "url": "https://github.com/adamanteye/tunet-bash/releases/tag/1.2.8"
     },
     "typst": {
       "version": "v0.13.1",

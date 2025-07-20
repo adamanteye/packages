@@ -51,7 +51,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -s compare ] && [ ! -f err.log ]; then
+          if [ -s compare ] && [ ! -s err.log ]; then
             data=$(jq -r ".[\"data\"]" new.json)
             packages=()
             while IFS= read -r package; do
