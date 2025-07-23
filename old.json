@@ -25,9 +25,9 @@
       "url": "https://github.com/helix-editor/helix/releases/tag/25.07.1"
     },
     "minify": {
-      "version": "v2.23.9",
-      "gitref": "refs/tags/v2.23.9",
-      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.9"
+      "version": "v2.23.10",
+      "gitref": "refs/tags/v2.23.10",
+      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.10"
     },
     "nvchecker": {
       "version": "v2.18",
