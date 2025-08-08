@@ -10,9 +10,9 @@
       "url": "https://github.com/caddyserver/caddy/releases/tag/v2.10.0"
     },
     "caddy-webdav": {
-      "version": "20250609.161527",
-      "revision": "33ba3cd2088c2219e2eeef1edf949bdd90bf47ab",
-      "url": "https://github.com/mholt/caddy-webdav/commit/33ba3cd2088c2219e2eeef1edf949bdd90bf47ab"
+      "version": "20250805.175825",
+      "revision": "7a5c90d8bf90ca97fc5ac11ff764533de5e05bd7",
+      "url": "https://github.com/mholt/caddy-webdav/commit/7a5c90d8bf90ca97fc5ac11ff764533de5e05bd7"
     },
     "hedgedoc": {
       "version": "1.10.3",
@@ -25,9 +25,9 @@
       "url": "https://github.com/helix-editor/helix/releases/tag/25.07.1"
     },
     "minify": {
-      "version": "v2.23.10",
-      "gitref": "refs/tags/v2.23.10",
-      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.10"
+      "version": "v2.23.11",
+      "gitref": "refs/tags/v2.23.11",
+      "url": "https://github.com/tdewolff/minify/releases/tag/v2.23.11"
     },
     "nvchecker": {
       "version": "v2.18",
@@ -82,9 +82,9 @@
       "url": "https://github.com/cetz-package/cetz/releases/tag/v0.4.1"
     },
     "typst-codly": {
-      "version": "v1.3.0",
-      "gitref": "refs/tags/v1.3.0",
-      "url": "https://github.com/Dherse/codly/releases/tag/v1.3.0"
+      "version": "v1.3.1",
+      "gitref": "refs/tags/v1.3.1",
+      "url": "https://github.com/Dherse/codly/releases/tag/v1.3.1"
     },
     "typst-codly-languages": {
       "version": "0.1.8"
@@ -120,9 +120,9 @@
       "url": "https://github.com/muety/wakapi/releases/tag/2.14.1"
     },
     "xray": {
-      "version": "v25.7.26",
-      "gitref": "refs/tags/v25.7.26",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.7.26"
+      "version": "v25.8.3",
+      "gitref": "refs/tags/v25.8.3",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.8.3"
     }
   }
 }
