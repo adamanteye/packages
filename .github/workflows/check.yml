@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     container: ghcr.io/adamanteye/nvchecker:latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Check Upstream
         run: |
           nvchecker -l warning -c packages.toml 2> err.log
@@ -40,7 +40,7 @@ jobs:
       contents: write
       issues: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Download Result
         uses: actions/download-artifact@v5
         with:
