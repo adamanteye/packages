@@ -5,9 +5,9 @@
       "version": "5.5.1"
     },
     "caddy": {
-      "version": "v2.10.0",
-      "gitref": "refs/tags/v2.10.0",
-      "url": "https://github.com/caddyserver/caddy/releases/tag/v2.10.0"
+      "version": "v2.10.2",
+      "gitref": "refs/tags/v2.10.2",
+      "url": "https://github.com/caddyserver/caddy/releases/tag/v2.10.2"
     },
     "caddy-webdav": {
       "version": "20250805.175825",
@@ -110,9 +110,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
     },
     "v2rayng": {
-      "version": "1.10.11",
-      "gitref": "refs/tags/1.10.11",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.11"
+      "version": "1.10.19",
+      "gitref": "refs/tags/1.10.19",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.19"
     },
     "wakapi": {
       "version": "2.14.1",
