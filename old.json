@@ -66,10 +66,10 @@
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.520"
     },
     "tunet-bash": {
-      "version": "1.2.8",
-      "gitref": "refs/tags/1.2.8",
-      "revision": "ac5b7fa897fdd5040124f19df87b144d1d47b3c9",
-      "url": "https://github.com/adamanteye/tunet-bash/releases/tag/1.2.8"
+      "version": "1.2.9",
+      "gitref": "refs/tags/1.2.9",
+      "revision": "49e1eb325b44138161d3302d903812f29a839470",
+      "url": "https://github.com/adamanteye/tunet-bash/releases/tag/1.2.9"
     },
     "typst": {
       "version": "v0.13.1",
@@ -120,9 +120,9 @@
       "url": "https://github.com/muety/wakapi/releases/tag/2.14.1"
     },
     "xray": {
-      "version": "v25.8.31",
-      "gitref": "refs/tags/v25.8.31",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.8.31"
+      "version": "v25.9.5",
+      "gitref": "refs/tags/v25.9.5",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v25.9.5"
     }
   }
 }
