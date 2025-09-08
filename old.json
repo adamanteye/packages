@@ -77,9 +77,9 @@
       "url": "https://github.com/typst/typst/releases/tag/v0.13.1"
     },
     "typst-cetz": {
-      "version": "v0.4.1",
-      "gitref": "refs/tags/v0.4.1",
-      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.4.1"
+      "version": "v0.4.2",
+      "gitref": "refs/tags/v0.4.2",
+      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.4.2"
     },
     "typst-codly": {
       "version": "v1.3.1",
@@ -95,9 +95,9 @@
       "url": "https://github.com/sahasatvik/typst-theorems/releases/tag/v1.1.3"
     },
     "typst-modern-cv": {
-      "version": "0.8.0",
-      "gitref": "refs/tags/0.8.0",
-      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.8.0"
+      "version": "0.9.0",
+      "gitref": "refs/tags/0.9.0",
+      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0"
     },
     "typst-physica": {
       "version": "v0.9.5",
