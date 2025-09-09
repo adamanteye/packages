@@ -95,9 +95,9 @@
       "url": "https://github.com/sahasatvik/typst-theorems/releases/tag/v1.1.3"
     },
     "typst-modern-cv": {
-      "version": "0.9.0",
-      "gitref": "refs/tags/0.9.0",
-      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0"
+      "version": "0.9.0-patch",
+      "gitref": "refs/tags/0.9.0-patch",
+      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0-patch"
     },
     "typst-physica": {
       "version": "v0.9.5",
