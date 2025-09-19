@@ -30,10 +30,10 @@
       "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.3"
     },
     "nvchecker": {
-      "version": "v2.18",
-      "gitref": "refs/tags/v2.18",
-      "revision": "9aad68bbda4d719b0e395e9a5763b1e2ca8d948d",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.18"
+      "version": "v2.19",
+      "gitref": "refs/tags/v2.19",
+      "revision": "670717b5e22deb3c2c91a94f5135353900036253",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.19"
     },
     "rust-chumsky": {
       "version": "0.10",
