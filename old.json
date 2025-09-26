@@ -41,9 +41,9 @@
       "url": "https://github.com/zesterer/chumsky/releases/tag/0.10"
     },
     "rust-frankenstein": {
-      "version": "0.44.0",
-      "gitref": "refs/tags/0.44.0",
-      "url": "https://github.com/ayrat555/frankenstein/releases/tag/0.44.0"
+      "version": "0.45.0",
+      "gitref": "refs/tags/0.45.0",
+      "url": "https://github.com/ayrat555/frankenstein/releases/tag/0.45.0"
     },
     "taskchampion-sync-server": {
       "version": "v0.7.0",
