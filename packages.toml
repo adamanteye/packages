@@ -3,49 +3,15 @@ oldver = "old.json"
 newver = "new.json"
 max_concurrency = 5
 
-[rust-chumsky]
-source = "github"
-github = "zesterer/chumsky"
-use_latest_release = true
-
 [minify]
 source = "github"
 github = "tdewolff/minify"
 use_latest_release = true
 
-[rust-frankenstein]
-source = "github"
-github = "ayrat555/frankenstein"
-use_latest_release = true
-
-[taskwarrior]
-source = "github"
-github = "GothenburgBitFactory/taskwarrior"
-use_latest_release = true
-
-[caddy]
-source = "github"
-github = "caddyserver/caddy"
-use_latest_release = true
-
-[caddy-webdav]
-source = "github"
-github = "mholt/caddy-webdav"
-
 [nvchecker]
 source = "github"
 github = "lilydjwg/nvchecker"
 use_max_tag = true
-
-[wakapi]
-source = "github"
-github = "muety/wakapi"
-use_latest_release = true
-
-[helix]
-source = "github"
-github = "helix-editor/helix"
-use_latest_release = true
 
 [astroimagej]
 source = "regex"
@@ -62,11 +28,6 @@ source = "github"
 github = "lxgw/LxgwBright-Code"
 use_latest_release = true
 
-[tunet-bash]
-source = "github"
-github = "adamanteye/tunet-bash"
-use_max_tag = true
-
 [xray]
 source = "github"
 github = "XTLS/Xray-core"
@@ -75,16 +36,6 @@ use_latest_release = true
 [v2rayng]
 source = "github"
 github = "2dust/v2rayNG"
-use_latest_release = true
-
-[taskchampion-sync-server]
-source = "github"
-github = "GothenburgBitFactory/taskchampion-sync-server"
-use_latest_release = true
-
-[hedgedoc]
-source = "github"
-github = "hedgedoc/hedgedoc"
 use_latest_release = true
 
 [typst]
