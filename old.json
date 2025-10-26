@@ -54,9 +54,9 @@
       "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0-patch"
     },
     "typst-physica": {
-      "version": "v0.9.5",
-      "gitref": "refs/tags/v0.9.5",
-      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.5"
+      "version": "v0.9.7",
+      "gitref": "refs/tags/v0.9.7",
+      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.7"
     },
     "typst-touying": {
       "version": "0.6.1",
@@ -64,9 +64,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
     },
     "v2rayng": {
-      "version": "1.10.24",
-      "gitref": "refs/tags/1.10.24",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.24"
+      "version": "1.10.26",
+      "gitref": "refs/tags/1.10.26",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.26"
     },
     "xray": {
       "version": "v25.10.15",
