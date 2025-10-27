@@ -42,7 +42,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Download Result
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v6
         with:
           name: update-results
       - name: Create Issue and Persist old.json
