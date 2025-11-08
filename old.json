@@ -5,9 +5,9 @@
       "version": "5.5.1"
     },
     "minify": {
-      "version": "v2.24.6",
-      "gitref": "refs/tags/v2.24.6",
-      "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.6"
+      "version": "v2.24.7",
+      "gitref": "refs/tags/v2.24.7",
+      "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.7"
     },
     "nvchecker": {
       "version": "v2.19",
