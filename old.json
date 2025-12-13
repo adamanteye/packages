@@ -26,9 +26,9 @@
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.520"
     },
     "typst": {
-      "version": "v0.14.1",
-      "gitref": "refs/tags/v0.14.1",
-      "url": "https://github.com/typst/typst/releases/tag/v0.14.1"
+      "version": "v0.14.2",
+      "gitref": "refs/tags/v0.14.2",
+      "url": "https://github.com/typst/typst/releases/tag/v0.14.2"
     },
     "typst-cetz": {
       "version": "v0.4.2",
