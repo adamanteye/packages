@@ -21,9 +21,9 @@
       "url": "https://github.com/lxgw/LxgwBright-Code/releases/tag/v2.822"
     },
     "ttf-lxgw-wenkai-tc-mono": {
-      "version": "v1.520",
-      "gitref": "refs/tags/v1.520",
-      "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.520"
+      "version": "v1.521",
+      "gitref": "refs/tags/v1.521",
+      "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.521"
     },
     "typst": {
       "version": "v0.14.2",
