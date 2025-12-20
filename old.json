@@ -10,10 +10,10 @@
       "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.8"
     },
     "nvchecker": {
-      "version": "v2.19",
-      "gitref": "refs/tags/v2.19",
-      "revision": "670717b5e22deb3c2c91a94f5135353900036253",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.19"
+      "version": "v2.20",
+      "gitref": "refs/tags/v2.20",
+      "revision": "5d6831b78ec4524b3cc1d6a45d846c13f854f80e",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
     },
     "ttf-lxgw-bright-code-tc": {
       "version": "v2.822",
@@ -54,9 +54,9 @@
       "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0-patch"
     },
     "typst-physica": {
-      "version": "v0.9.7",
-      "gitref": "refs/tags/v0.9.7",
-      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.7"
+      "version": "v0.9.8",
+      "gitref": "refs/tags/v0.9.8",
+      "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.8"
     },
     "typst-touying": {
       "version": "0.6.1",
