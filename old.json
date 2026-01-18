@@ -51,7 +51,7 @@
     "typst-modern-cv": {
       "version": "0.9.0-patch",
       "gitref": "refs/tags/0.9.0-patch",
-      "url": "https://github.com/DeveloperPaul123/modern-cv/releases/tag/0.9.0-patch"
+      "url": "https://github.com/ptsouchlos/modern-cv/releases/tag/0.9.0-patch"
     },
     "typst-physica": {
       "version": "v0.9.8",
@@ -69,9 +69,9 @@
       "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.32"
     },
     "xray": {
-      "version": "v26.1.13",
-      "gitref": "refs/tags/v26.1.13",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.1.13"
+      "version": "v26.1.18",
+      "gitref": "refs/tags/v26.1.18",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.1.18"
     }
   }
 }
