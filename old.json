@@ -69,9 +69,9 @@
       "url": "https://github.com/2dust/v2rayNG/releases/tag/1.10.32"
     },
     "xray": {
-      "version": "v26.1.23",
-      "gitref": "refs/tags/v26.1.23",
-      "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.1.23"
+      "version": "v26.1.31",
+      "gitref": "refs/tags/v26.1.31",
+      "url": "https://github.com/XTLS/Xray-core/releases/tag/v26.1.31"
     }
   }
 }
