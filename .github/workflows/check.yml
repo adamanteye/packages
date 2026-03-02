@@ -24,7 +24,7 @@ jobs:
         env:
           NVCHECKER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload Result
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: update-results
           path: |
