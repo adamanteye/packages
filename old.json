@@ -59,9 +59,9 @@
       "url": "https://github.com/Leedehai/typst-physics/releases/tag/v0.9.8"
     },
     "typst-touying": {
-      "version": "0.6.1",
-      "gitref": "refs/tags/0.6.1",
-      "url": "https://github.com/touying-typ/touying/releases/tag/0.6.1"
+      "version": "0.6.2",
+      "gitref": "refs/tags/0.6.2",
+      "url": "https://github.com/touying-typ/touying/releases/tag/0.6.2"
     },
     "v2rayng": {
       "version": "2.0.13",
