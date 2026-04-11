@@ -64,9 +64,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.7.1"
     },
     "v2rayng": {
-      "version": "2.0.15",
-      "gitref": "refs/tags/2.0.15",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.0.15"
+      "version": "2.0.18",
+      "gitref": "refs/tags/2.0.18",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.0.18"
     },
     "xray": {
       "version": "v26.3.27",
