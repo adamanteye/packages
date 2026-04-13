@@ -31,9 +31,9 @@
       "url": "https://github.com/typst/typst/releases/tag/v0.14.2"
     },
     "typst-cetz": {
-      "version": "v0.4.2",
-      "gitref": "refs/tags/v0.4.2",
-      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.4.2"
+      "version": "v0.5.0",
+      "gitref": "refs/tags/v0.5.0",
+      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.5.0"
     },
     "typst-codly": {
       "version": "v1.3.1",
