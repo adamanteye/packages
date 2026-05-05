@@ -14,9 +14,9 @@ github = "lilydjwg/nvchecker"
 use_max_tag = true
 
 [astroimagej]
-source = "regex"
-regex = "AstroImageJ_v(\\d+\\.\\d+\\.\\d+)(?:\\.00)?-linux-x86_64"
-url = "http://www.astro.louisville.edu/software/astroimagej/installation_packages/"
+source = "github"
+github = "AstroImageJ/astroimagej"
+use_latest_release = true
 
 [ttf-lxgw-wenkai-tc-mono]
 source = "github"
