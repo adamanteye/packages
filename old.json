@@ -28,9 +28,9 @@
       "url": "https://github.com/lxgw/LxgwWenkaiTC/releases/tag/v1.522"
     },
     "typst": {
-      "version": "v0.14.2",
-      "gitref": "refs/tags/v0.14.2",
-      "url": "https://github.com/typst/typst/releases/tag/v0.14.2"
+      "version": "v0.15.0",
+      "gitref": "refs/tags/v0.15.0",
+      "url": "https://github.com/typst/typst/releases/tag/v0.15.0"
     },
     "typst-cetz": {
       "version": "v0.5.2",
@@ -66,9 +66,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.7.4"
     },
     "v2rayng": {
-      "version": "2.2.3",
-      "gitref": "refs/tags/2.2.3",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.2.3"
+      "version": "2.2.4",
+      "gitref": "refs/tags/2.2.4",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.2.4"
     },
     "xray": {
       "version": "v26.3.27",
