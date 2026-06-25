@@ -2,9 +2,9 @@
   "version": 2,
   "data": {
     "astroimagej": {
-      "version": "6.0.8.00",
-      "gitref": "refs/tags/6.0.8.00",
-      "url": "https://github.com/AstroImageJ/astroimagej/releases/tag/6.0.8.00"
+      "version": "6.0.9.00",
+      "gitref": "refs/tags/6.0.9.00",
+      "url": "https://github.com/AstroImageJ/astroimagej/releases/tag/6.0.9.00"
     },
     "minify": {
       "version": "v2.24.13",
