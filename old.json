@@ -12,10 +12,10 @@
       "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.13"
     },
     "nvchecker": {
-      "version": "v2.20",
-      "gitref": "refs/tags/v2.20",
-      "revision": "5d6831b78ec4524b3cc1d6a45d846c13f854f80e",
-      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.20"
+      "version": "v2.21",
+      "gitref": "refs/tags/v2.21",
+      "revision": "2bc07c78c78e5b40cf40584a34ce0411575253e4",
+      "url": "https://github.com/lilydjwg/nvchecker/releases/tag/v2.21"
     },
     "ttf-lxgw-bright-code-tc": {
       "version": "v2.922",
