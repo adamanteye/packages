@@ -7,9 +7,9 @@
       "url": "https://github.com/AstroImageJ/astroimagej/releases/tag/6.0.11.00"
     },
     "minify": {
-      "version": "v2.24.19",
-      "gitref": "refs/tags/v2.24.19",
-      "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.19"
+      "version": "v2.24.20",
+      "gitref": "refs/tags/v2.24.20",
+      "url": "https://github.com/tdewolff/minify/releases/tag/v2.24.20"
     },
     "nvchecker": {
       "version": "v2.22",
