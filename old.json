@@ -33,9 +33,9 @@
       "url": "https://github.com/typst/typst/releases/tag/v0.15.1"
     },
     "typst-cetz": {
-      "version": "v0.5.2",
-      "gitref": "refs/tags/v0.5.2",
-      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.5.2"
+      "version": "v0.5.3",
+      "gitref": "refs/tags/v0.5.3",
+      "url": "https://github.com/cetz-package/cetz/releases/tag/v0.5.3"
     },
     "typst-codly": {
       "version": "v1.3.1",
@@ -66,9 +66,9 @@
       "url": "https://github.com/touying-typ/touying/releases/tag/0.8.0"
     },
     "v2rayng": {
-      "version": "2.2.6",
-      "gitref": "refs/tags/2.2.6",
-      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.2.6"
+      "version": "2.3.11",
+      "gitref": "refs/tags/2.3.11",
+      "url": "https://github.com/2dust/v2rayNG/releases/tag/2.3.11"
     },
     "xray": {
       "version": "v26.3.27",
